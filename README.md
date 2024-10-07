@@ -1,7 +1,7 @@
 # Personal-Projects  A-Z
 
 1. Age Calc App
-2. Bankist App
+2. Base Apparel Coming Soon
 3. Contact Form
 4. Interactive Rating Component
 5. Music Based Website
